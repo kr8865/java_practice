@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class array_dec {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc=new Scanner(System.in);
+		int m=sc.nextInt();
+		int n=sc.nextInt();
+		int[] [] arr=new int[m][n];
+		//m-- row
+		//n-- column
+		// in java - 1-d array of size m will be created and m arrays of n size will be created in stack memory
+		
+		
+
+	}
+
+}
